@@ -1,0 +1,6 @@
+C:\Projects\WizKids\WizKids\WizKids\bin\Debug\WizKids.exe.config
+C:\Projects\WizKids\WizKids\WizKids\bin\Debug\WizKids.exe
+C:\Projects\WizKids\WizKids\WizKids\bin\Debug\WizKids.pdb
+C:\Projects\WizKids\WizKids\WizKids\obj\Debug\WizKids.csprojAssemblyReference.cache
+C:\Projects\WizKids\WizKids\WizKids\obj\Debug\WizKids.exe
+C:\Projects\WizKids\WizKids\WizKids\obj\Debug\WizKids.pdb
